@@ -1,2 +1,2 @@
-# show-display-iamge
+# show-display-image
 FLASK
